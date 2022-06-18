@@ -1,11 +1,5 @@
 ---
-title: "About"
+title: "Computer Assisted Prostatectomy"
 layout: post
 ---
-I am a Ph.D. Student at the Polytechnic University of Turin, Italy, currently living in Paris and working as a Ph.D. visiting student at UTC Sorbonne Alliance Université under the supervision of Prof. [Yves Grandvalet](https://scholar.google.com/citations?user=ZX9LE3QAAAAJ&hl=en).
-
-I've received a Master’s Degree in Computer Engineering, Graphic and Multimedia Curricula, in 2019, after a six-month thesis research experience at KTH University of Stockholm, Department of Technology and Health. 
-
-My current research focuses on human-machine methodologies for smart support during complex interventions, using Deep Learning and Augmented Reality for 3D assistance, with a focus on medical application for computer-assisted surgery during pre-operative and intra-operative procedures. I have collaborated with several research groups in the medical field, such as the CTO of Turin's orthopedic team, the San Luigi Hospital's urology team, and the Molinette's maxillofacial team. 
-
-I have lived in three countries (Italy, Sweden and France) and speak English, French and Italian.
+Implementation of a Deep Learning based application to segment the endoscopic video stream during real-time prostatectomy. In the fifth phase of this procedure, the biopsy, it is crucial to locale the area where the tumor was before the removal of the prostate. Using the catheter as an anchor, the 3D model is attached to the 2D stream of the Da Vinci robot to help the surgeon locate the correct area. This work is being carried out and tested during in-vivo surgery in collaboration with the Urology unity of the San Luigi Hospital, in Orbassano (To) – Italy.}
