@@ -3,7 +3,6 @@ layout: page
 title: ""
 ---
 
-### Bio 
 I am a Ph.D. Student in the 3DLab of the Polytechnic University of Turin, Italy, but I am currently living in Paris and working at UTC Sorbonne Alliance Université under the supervision of Prof. [Yves Grandvalet](https://scholar.google.com/citations?user=ZX9LE3QAAAAJ&hl=en).
 
 I've received a Master’s Degree in Computer Engineering, Graphic and Multimedia Curricula, in 2019, after a six-month thesis research experience at KTH University of Stockholm, Department of Technology and Health. 
