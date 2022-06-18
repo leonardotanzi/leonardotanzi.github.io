@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Bio"
 ---
 
 I am a Ph.D. Student in the 3DLab of the Polytechnic University of Turin, Italy, but I am currently living in Paris and working at UTC Sorbonne Alliance Université under the supervision of Prof. [Yves Grandvalet](https://scholar.google.com/citations?user=ZX9LE3QAAAAJ&hl=en).
