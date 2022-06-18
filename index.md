@@ -10,3 +10,7 @@ I've received a Master’s Degree in Computer Engineering, Graphic and Multimedi
 My current research focuses on human-machine methodologies for smart support during complex interventions, using Deep Learning and Augmented Reality for 3D assistance, with a focus on medical application for computer-assisted surgery during pre-operative and intra-operative procedures. I have collaborated with several research groups in the medical field, such as the CTO of Turin's orthopedic team, the San Luigi Hospital's urology team, and the Molinette's maxillofacial team. 
 
 I have lived in three countries (Italy, Sweden and France) and speak English, French and Italian.
+
+# Publications
+
+1. Tanzi..
