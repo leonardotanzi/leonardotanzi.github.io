@@ -11,23 +11,19 @@ My current research focuses on human-machine methodologies for smart support dur
 
 I have lived in three countries (Italy, Sweden and France) and speak English, French and Italian.
 
-## AI Technical Writer
+### AI Technical Writer
 I love to write and discuss stuff related to AI, in my [Medium](https://medium.com/@leonardo.tanzi), I describe and explain different paper that I find exciting for the research community. In addition, I'm collaborating with [MarkTechPost](https://www.marktechpost.com/author/leonardotanzi/), a California-based Artificial Intelligence news platform which focuses on spreading AI Awareness across the globe, reaching more than 1M views per month. 
 
-## Teaching
+### Teaching
 I had the opportunity to teach a part of the course 3D Biometric Application, a Master's Course at Polytechnic University of Turin, a course that aims to provide an understanding of 3D tools and methods for acquiring, modeling, visualizing, and managing data from human anatomy to develop intelligent applications in different application fields. My lessons were focused on an Introduction to Machine Learning and Deep Learning. You can find the slides that I prepared and used [here](.\MLDL_Tanzi.pdf).
 
-## Lectures
+### Lectures
 In these two years of Ph.D., I had the chance to give e guest lecture at the IEEE Fiji for the University of South Pacific, related to the applications of Transformers in vision. I am also part of the community of [Datacraft Paris](https://datacraft.paris/), a learning & coworking club for data scientists, which allows data scientists and data engineers to share best practices and train with their peers. In this contest, I had the chance to give a seminar on Vision Transformer for femur fractures classification.
 
-## Free time
 ### Generative Adversarial Art
 In my free time, I am collaborating with a collective of artists based in Turin, in the context of applying AI and in particular Generative Adversarial Network to image and text-to-image synthesis. The project is called DEF1 and will take place at [Optika Studio](https://optika.studio/) in Copenaghen in October 2022. 
 
-### Chess
-If you wanna play chess, find me on lichess.com with the username @leobrang!
-
-## Scientific Publications
+### Scientific Publications
 
 1. *Vision Transformers for femur fracture classification*. Tanzi L, Audisio A, Cirrincione G, Aprato A, Vezzetti E. Injury (2022). [DOI](https://doi.org/10.1016/j.injury.2022.04.013)
 2. *Real-time deep learning semantic segmentation during intra-operative surgery for 3D augmented reality assistance*. Tanzi L, Piazzolla P, Vezzetti E, Porpiglia. International Journal of Computer Assisted Radiology and Surgery (2021). [DOI](10.1007/s11548-021-02432-y)
@@ -35,7 +31,3 @@ If you wanna play chess, find me on lichess.com with the username @leobrang!
 4. *Intraoperative Surgery Room Management: a Deep Learning Perspectives*. Tanzi L, Piazzolla P, Vezzetti E. The International Journal of Medical Robotics and Computer Assisted Surgery (2020). [DOI](https://doi.org/10.1002/rcs.2136)
 5. *A deep learning framework for real-time 3D model registration in robot-assisted laparoscopic surgery*. Padovan E, Marullo G, Tanzi L, Piazzolla P, Moos S, Porpiglia F, Vezzetti E. The International Journal of Medical Robotics and Computer Assisted Surgery (2022). [DOI](https://doi.org/10.1002/rcs.2387)
 6. *X-Ray Bone Fracture Classification Using Deep Learning: a Baseline For Designing a Reliable Approach*. Tanzi L, Vezzetti E, Moreno R, Moos S. Applied Sciences (2020). [DOI](https://doi.org/10.3390/app10041507)
-
-# Generative Art
-
-## Chess
