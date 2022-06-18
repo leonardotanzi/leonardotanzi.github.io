@@ -21,7 +21,7 @@ I had the opportunity to teach a part of the course 3D Biometric Application, a 
 In these two years of Ph.D., I had the chance to give e guest lecture at the IEEE Fiji for the University of South Pacific, related to the applications of Transformers in vision. I am also part of the community of [Datacraft Paris](https://datacraft.paris/), a learning & coworking club for data scientists, which allows data scientists and data engineers to share best practices and train with their peers. In this contest, I had the chance to give a seminar on Vision Transformer for femur fractures classification.
 
 ### Generative Adversarial Art
-In my free time, I am collaborating with a collective of artists based in Turin, in the context of applying AI and in particular Generative Adversarial Network to image and text-to-image synthesis. The project is called DEF1 and will take place at [Optika Studio](https://optika.studio/) in Copenaghen in October 2022. 
+In my free time, I am collaborating with a collective of artists based in Turin, in the context of applying AI and in particular Generative Adversarial Network to image and text-to-image synthesis. The project is called DEF1 and will take place at [Optika Studio](https://optika.studio/) in Copenaghen in October 2022. Some results of generative art can be found [here](https://www.instagram.com/intingol1/). 
 
 ### Scientific Publications
 
