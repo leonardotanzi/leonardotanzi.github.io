@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "./Full_CV_Leonardo_Tanzi.pdf", title: "CV", icon: home}
+  - {file: "/Full_CV_Leonardo_Tanzi.pdf", title: "CV", icon: home}
   - {title: "Lab", url: "https://www.3dlab.polito.it"}
   - {title: "Blog", url: "https://medium.com/@leonardo.tanzi"}
   
