@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bio"
+title: ""
 ---
 
 I am a Ph.D. Student at the Polytechnic University of Turin, Italy, currently living in Paris and working as a Ph.D. visiting student at UTC Sorbonne Alliance Université under the supervision of Prof. [Yves Grandvalet](https://scholar.google.com/citations?user=ZX9LE3QAAAAJ&hl=en).
