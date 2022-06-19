@@ -7,7 +7,7 @@ I am a Ph.D. Student in the 3DLab of the Polytechnic University of Turin, Italy,
 
 I've received a Master’s Degree in Computer Engineering, Graphic and Multimedia Curricula, in 2019, after a six-month thesis research experience at KTH University of Stockholm, Department of Technology and Health. 
 
-My current research focuses on human-machine methodologies for smart support during complex interventions, using Deep Learning and Computer Vision for 3D assistance, with a focus on medical application for computer-assisted surgery during pre-operative and intra-operative procedures. I have collaborated with several research groups in the medical field, such as the CTO of Turin's orthopedic team, the San Luigi Hospital's urology team, and the Molinette's maxillofacial team. My main projects are broadly discussed [here](https://leonardotanzi.github.io/blog/){:target="_blank" rel="noopener"}.
+My current research focuses on human-machine methodologies for smart support during complex interventions, using Deep Learning and Computer Vision for 3D assistance, with a focus on medical application for computer-assisted surgery during pre-operative and intra-operative procedures. I have collaborated with several research groups in the medical field, such as the CTO of Turin's orthopedic team, the San Luigi Hospital's urology team, and the Molinette's maxillofacial team. My main projects are broadly discussed [here](https://leonardotanzi.github.io/blog/).
 
 I have lived in three countries (Italy, Sweden and France) and speak English, French and Italian.
 
