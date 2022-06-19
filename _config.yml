@@ -1,6 +1,9 @@
 kramdown:
   input: Kramdown
 
+plugins:
+  - jekyll-target-blank
+
 title: "Leonardo Tanzi"
 author: "Leonardo Tanzi"
 description: "Leonardo Tanzi's Website"
