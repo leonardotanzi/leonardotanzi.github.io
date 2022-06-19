@@ -1,9 +1,6 @@
 kramdown:
   input: Kramdown
 
-target-blank:
-    css_class: ext-link
-
 title: "Leonardo Tanzi"
 author: "Leonardo Tanzi"
 description: "Leonardo Tanzi's Website"
