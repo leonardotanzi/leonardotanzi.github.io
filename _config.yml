@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
+  - {title: "Projects", file: "blog.md", icon: cubes}
   - {url: "https://leonardotanzi.github.io/Full_CV_Leonardo_Tanzi.pdf", title: "CV", icon: file-code}
   - {title: "3DLab", url: "https://www.3dlab.polito.it", icon: brain}
   - {title: "Medium", url: "https://medium.com/@leonardo.tanzi", icon: bars}
-  - {title: "Projects", file: "blog.md", icon: cubes}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
