@@ -26,7 +26,7 @@ In my free time, I am collaborating with a collective of artists based in Turin,
 ### Scientific Publications
 
 1. *Vision Transformers for femur fracture classification*. **Tanzi L**, Audisio A, Cirrincione G, Aprato A, Vezzetti E. Injury (2022). [DOI](https://doi.org/10.1016/j.injury.2022.04.013)
-2. *Real-time deep learning semantic segmentation during intra-operative surgery for 3D augmented reality assistance*. **Tanzi L**, Piazzolla P, Vezzetti E, Porpiglia. International Journal of Computer Assisted Radiology and Surgery (2021). [DOI](10.1007/s11548-021-02432-y)
+2. *Real-time deep learning semantic segmentation during intra-operative surgery for 3D augmented reality assistance*. **Tanzi L**, Piazzolla P, Vezzetti E, Porpiglia. International Journal of Computer Assisted Radiology and Surgery (2021). [DOI](https://doi.org/10.1007/s11548-021-02432-y)
 3. *Hierarchical Fracture Classification of Proximal Femur X-Ray Images Using a Multistage Deep Learning Approach*. **Tanzi L**, Vezzetti E, Moreno R, Aprato A, Audisio A, Massè A. European Journal of Radiology 133 (2020). [DOI](https://doi.org/10.1016/j.ejrad.2020.109373)
 4. *Intraoperative Surgery Room Management: a Deep Learning Perspectives*. **Tanzi L**, Piazzolla P, Vezzetti E. The International Journal of Medical Robotics and Computer Assisted Surgery (2020). [DOI](https://doi.org/10.1002/rcs.2136)
 5. *A deep learning framework for real-time 3D model registration in robot-assisted laparoscopic surgery*. Padovan E, Marullo G, **Tanzi L**, Piazzolla P, Moos S, Porpiglia F, Vezzetti E. The International Journal of Medical Robotics and Computer Assisted Surgery (2022). [DOI](https://doi.org/10.1002/rcs.2387)
