@@ -1,3 +1,6 @@
+kramdown:
+  input: Kramdown
+
 title: "Leonardo Tanzi"
 author: "Leonardo Tanzi"
 description: "Leonardo Tanzi's Website"
