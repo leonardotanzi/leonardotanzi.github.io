@@ -31,7 +31,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/leonardotanzi"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/leonardo-tanzi/"}
   - {title: IG, icon: instagram, url: "https://www.instagram.com/intingol1/"}
-  - {title: Chess, icon:chess, url: "https://lichess.org/@/leobrang"}
+  - {title: Chess, icon: chess, url: "https://lichess.org/@/leobrang"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
