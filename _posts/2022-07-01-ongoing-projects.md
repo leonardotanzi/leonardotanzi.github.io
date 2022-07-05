@@ -5,7 +5,7 @@ layout: post
 
 # Hierarchical Classifier
 
-When working in the medical domain, the unbalancing and scarcity of images is one of the main issues. Fortunately, many medical datasets have an intrinsic hierarchical structure. For example, bone fracture classification. The idea of this work is to propose some simple solutions which can be applied to any existing network when using a hierarchical dataset. Very briefly, a specific form of regularization, together with a hierarchical loss, was defined to maximize the prediction at each level of the hierarchy. Finally, a new metric was introduced to better understand the performances of a hierarchical classifier. This work is conducted in collaboration with UTC Sorbonne University under the supervision of Prof. [Yves Grandvalet] (https://scholar.google.com/citations?user=ZX9LE3QAAAAJ&hl=en){:target="_blank" rel="noopener"}.
+When working in the medical domain, the unbalancing and scarcity of images is one of the main issues. Fortunately, many medical datasets have an intrinsic hierarchical structure. For example, bone fracture classification. The idea of this work is to propose some simple solutions which can be applied to any existing network when using a hierarchical dataset. Very briefly, a specific form of regularization, together with a hierarchical loss, was defined to maximize the prediction at each level of the hierarchy. Finally, a new metric was introduced to better understand the performances of a hierarchical classifier. This work is conducted in collaboration with UTC Sorbonne University under the supervision of Prof. [Yves Grandvalet](https://scholar.google.com/citations?user=ZX9LE3QAAAAJ&hl=en){:target="_blank" rel="noopener"}.
 
 # Computer Assisted Maxillofacial Surgery
 
