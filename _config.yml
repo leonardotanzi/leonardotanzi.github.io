@@ -30,6 +30,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:leonardo.tanzi@polito.it"}
   - {title: Github, icon: github, url: "https://github.com/leonardotanzi"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/leonardo-tanzi/"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Leonardo-Tanzi"}
   - {title: Scholar, icon: book-open, url: "https://scholar.google.com/citations?user=s0p13UEAAAAJ&hl=it"}
   - {title: GANs, icon: instagram, url: "https://www.instagram.com/intingol1/"}
   - {title: Chess, icon: chess, url: "https://lichess.org/@/leobrang"}
