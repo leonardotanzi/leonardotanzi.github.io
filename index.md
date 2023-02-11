@@ -3,7 +3,7 @@ layout: page
 title: "Leonardo Tanzi, Ph.D."
 ---
 
-I am currently a Deep Learning Engineering at [Methinks AI](https://www.methinks.ai/), a Barcelona start-up focusing on stroke medical assistance.
+I am currently a Deep Learning Engineer at [Methinks AI](https://www.methinks.ai/), a Barcelona start-up focusing on stroke medical assistance.
 I obtained my Ph.D. in the 3DLab of the Polytechnic University of Turin, Italy, spending a period of research in Paris at UTC Sorbonne Alliance Université under the supervision of Prof. [Yves Grandvalet](https://scholar.google.com/citations?user=ZX9LE3QAAAAJ&hl=en){:target="_blank" rel="noopener"}.
 
 I've received a Master’s Degree in Computer Engineering, Graphic and Multimedia Curricula, in 2019, after a six-month thesis research experience at KTH University of Stockholm, Department of Technology and Health. 
